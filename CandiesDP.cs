@@ -1,3 +1,8 @@
+/*
+    https://www.hackerrank.com/challenges/candies
+    solves with dynamic programming approach
+*/
+
 using System;
 using System.IO;
 
