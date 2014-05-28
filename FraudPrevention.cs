@@ -1,3 +1,9 @@
+/*
+
+    Solves https://www.hackerrank.com/challenges/fraud-prevention using dicts and LINQ
+    
+*/
+
 using System;
 using System.Linq;
 using System.Collections.Generic;
