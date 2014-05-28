@@ -1,3 +1,7 @@
+/*
+    solves https://www.hackerrank.com/challenges/angry-children-2
+*/
+
 using System;
 using System.Collections.Generic;
 using System.IO;
